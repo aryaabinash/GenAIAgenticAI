@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # NLP Text Feature Engineering — Amazon Product Reviews
 
 ## Project Overview
@@ -166,6 +165,4 @@ Arya Abinash
 ## License
 
 This project is for educational and learning purposes.
-=======
 
->>>>>>> 54498b806cdb9e52153ae258f43db5a3a1cf7643
